@@ -1,3 +1,14 @@
+#1. install git
+#2. create github account and create new repository
+#3. go to terminal /  cmd and write below commands
+#4. git config --global user.name "esha prajapati"
+#5. git config --global user.email "eshapraz@gmail.com"
+#6. git init
+#7. git add .
+#8. git commit -m "Your commit message"
+#9. copy paste from github new repository
+
+
 import csv
 import sqlite3
 
