@@ -1,3 +1,4 @@
+import csv
 import sqlite3
 
 def create_connection():
@@ -66,7 +67,7 @@ def insert_users(con, users):
    con.commit()
    print(f"{len(users)}users were imported successfully.")
 
-import csv
+
 
 def read_csv():
    users=[]  #users vanne euta list
